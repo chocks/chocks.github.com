@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://chocks.github.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://chockalingam.github.com
+title: My Personal Blog
+subtitle: A place where ideas are nurtured.
+author: Chockalingam Eswaramurthy (Chocks)
 simple_search: http://google.com/search
 description:
 
