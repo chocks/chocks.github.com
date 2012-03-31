@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Personal Blog]]></title>
-  <link href="http://chocks.github.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: trial post | My Personal Blog]]></title>
+  <link href="http://chocks.github.com/blog/categories/trial-post/atom.xml" rel="self"/>
   <link href="http://chocks.github.com/"/>
   <updated>2012-03-30T23:25:50-05:00</updated>
   <id>http://chocks.github.com/</id>
