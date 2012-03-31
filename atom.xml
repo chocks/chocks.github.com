@@ -4,7 +4,7 @@
   <title><![CDATA[My Personal Blog]]></title>
   <link href="http://chocks.github.com/atom.xml" rel="self"/>
   <link href="http://chocks.github.com/"/>
-  <updated>2012-03-30T23:25:50-05:00</updated>
+  <updated>2012-03-30T23:28:27-05:00</updated>
   <id>http://chocks.github.com/</id>
   <author>
     <name><![CDATA[Chockalingam Eswaramurthy (Chocks)]]></name>
@@ -12,16 +12,5 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[trialPost]]></title>
-    <link href="http://chocks.github.com/blog/2012/03/30/trialpost/"/>
-    <updated>2012-03-30T23:23:00-05:00</updated>
-    <id>http://chocks.github.com/blog/2012/03/30/trialpost</id>
-    <content type="html"><![CDATA[<p>This is a trial post to test the working of octopress.</p>
-
-<p>~Chocks</p>
-]]></content>
-  </entry>
   
 </feed>
