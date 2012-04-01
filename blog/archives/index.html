@@ -9,8 +9,8 @@
   <meta name="author" content="Chockalingam Eswaramurthy (Chocks)">
 
   
-  <meta name="description" content=" Blog Archive 2012 Steve Jobs
-Mar 31 2012 posted in Inspiration Recent Posts Steve Jobs ">
+  <meta name="description" content="Blog Archive 2012 Steve Jobs
+Mar 31 2012 posted in Inspiration Recent Posts Steve Jobs GitHub Repos Status updating... @chocks on GitHub $.domReady( &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -110,6 +110,35 @@ Mar 31 2012 posted in Inspiration Recent Posts Steve Jobs ">
   </ul>
 </section>
 
+<section>
+  <h1>GitHub Repos</h1>
+  <ul id="gh_repos">
+    <li class="loading">Status updating...</li>
+  </ul>
+  
+  <a href="https://github.com/chocks">@chocks</a> on GitHub
+  
+  <script type="text/javascript">
+    $.domReady(function(){
+        if (!window.jXHR){
+            var jxhr = document.createElement('script');
+            jxhr.type = 'text/javascript';
+            jxhr.src = '/javascripts/libs/jXHR.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(jxhr, s);
+        }
+
+        github.showRepos({
+            user: 'chocks',
+            count: 0,
+            skip_forks: true,
+            target: '#gh_repos'
+        });
+    });
+  </script>
+  <script src="/javascripts/github.js" type="text/javascript"> </script>
+</section>
+
 
 
 
@@ -131,7 +160,24 @@ Mar 31 2012 posted in Inspiration Recent Posts Steve Jobs ">
 
 
 
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) {return;}
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#appId=212934732101925&xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
 
+
+
+  <script type="text/javascript">
+    (function() {
+      var script = document.createElement('script'); script.type = 'text/javascript'; script.async = true;
+      script.src = 'https://apis.google.com/js/plusone.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(script, s);
+    })();
+  </script>
 
 
 
