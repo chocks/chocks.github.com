@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Personal Blog]]></title>
+  <title><![CDATA[Play School]]></title>
   <link href="http://chocks.github.com/atom.xml" rel="self"/>
   <link href="http://chocks.github.com/"/>
-  <updated>2012-03-30T23:31:18-05:00</updated>
+  <updated>2012-03-31T22:18:52-05:00</updated>
   <id>http://chocks.github.com/</id>
   <author>
     <name><![CDATA[Chockalingam Eswaramurthy (Chocks)]]></name>
