@@ -1,15 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://chocks.github.com/blog/2011/08/27/a-change-called-lokpal/</loc>
+        <lastmod>2012-04-01T17:58:55-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://chocks.github.com/blog/2012/01/11/my-grandfather-a-grandsons-eulogy/</loc>
+        <lastmod>2012-04-01T17:59:31-05:00</lastmod>
+    </url>
+    <url>
         <loc>http://chocks.github.com/blog/2012/03/31/steve-jobs/</loc>
         <lastmod>2012-04-01T00:38:40-05:00</lastmod>
     </url>
     <url>
         <loc>http://chocks.github.com/blog/archives/</loc>
-        <lastmod>2012-04-01T00:38:40-05:00</lastmod>
+        <lastmod>2012-04-01T17:59:31-05:00</lastmod>
     </url>
     <url>
         <loc>http://chocks.github.com/</loc>
-        <lastmod>2012-04-01T00:38:40-05:00</lastmod>
+        <lastmod>2012-04-01T17:59:31-05:00</lastmod>
     </url>
 </urlset>
