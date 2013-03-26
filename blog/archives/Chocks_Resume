@@ -1,17 +1,19 @@
-
-   CHOCKALINGAM ESWARAMURTHY
+CHOCKALINGAM ESWARAMURTHY
 chocks@outlook.com 316 - 259 - 4464 7627 E 37th ST N #3402, Wichita, KS - 67226
+
 EDUCATION
 M.S, Computer Science GPA: 3.90/4 University of Missouri – Kansas City
 B. Tech, Electronics and Communications GPA: 9.23/10 SRM University, Chennai, India
+
 EXPERIENCE
 Member of Technical Staff - Software, NetApp, Wichita, KS
-August 2011 May 2007
-(Aug 2011 – Present)
+August 2011 May 2007 (Aug 2011 – Present)
 ◦ Implemented permission management feature for NetApp E-series storage controller firmware in VxWorks-C++ ▪ Implemented API for the management software to access this feature via storage protocols
 ◦ Implemented a diagnostic feature for NetApp E-series controller firmware in VxWorks-C++ to fetch diagnostic information from the controller’s LED backend and display it to the user shell.
 ◦ Designed and developed unit and integration test framework in Java for a component of the NetApp E-series storage array.
-Graduate Research Assistant, Department of Computer Science, UMKC (Sep 2010 – May 2011)
+
+Graduate Research Assistant, Department of Computer Science, 
+UMKC (Sep 2010 – May 2011)
 ◦ Lead the design and implementation efforts for a dynamic routing scheme project in the NSF GpENI test-bed
 ◦ Added a new transport layer protocol (SCTP) in the Linux vanilla kernel of the test-bed to facilitate future
 experiments
@@ -21,6 +23,7 @@ Graduate Teaching Assistant, Department of Computer Science, UMKC (Sep 2010 – 
 ◦ Initiated and designed the first programming assignment for a class of 50 students in Cryptology – 1 course Quality Assurance Intern at NAIC Inc, Kansas City (Jun 2010 – May 2011)
 ◦ Analyzed and documented the performance of the company's website over a period of time using HP Quality center and Load Runner to help architects understand the load patterns to the website
 ◦ Implemented automated test scripts in BadBoy tool for new check-ins to the website ensuring the correctness of the fixes
+
 Software Engineer at MindTree, Bangalore, India (Jul 2007 - Jul 2009)
 ◦ Designed and implemented a critical memory leak fix in Linux-C for a database activity monitoring customer that helped achieve better performance and scalability
 ◦ Designed the first data-loss-prevention (DLP) tool using only open source such as snort and i3fs that helped the customer gain a competitive edge in the DLP market
@@ -30,7 +33,7 @@ Software Engineer at MindTree, Bangalore, India (Jul 2007 - Jul 2009)
 initiative that helps lab admins monitor and control power consumption remotely
 ◦ Knowledge Management Lead: Drove the knowledge initiatives such as Video of the Quarter, Book of the Quarter, Systematic Innovation and Expertise Building for a team of 150 members; Helped create an efficient knowledge transfer process for the engineering department
 ◦ Achievements: Outstanding Knowledge Management Lead of the year 2009; Shining star (2008)
-MASTER’S
-THESIS
+
+MASTER’S THESIS
 ◦ Proposed a new secure inter-domain routing protocol i-SiDR that uses innovative technologies like attribute based encryption and stream control transmission protocol that helps prevent today's inter-domain security vulnerabilities. This work was funded under the NSF-Future internet design project. Development Environment – GpENI test-bed, cp-abe toolkit, CentOS, Mac OS X, Linux development tools
 ◦ Advisor: Dr. Deep Medhi 
